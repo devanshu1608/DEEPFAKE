@@ -1,5 +1,7 @@
-streamlit==1.35.0
+tensorflow==2.13.0
 librosa==0.10.1
-tensorflow
-numpy==1.24.3
-matplotlib==3.7.1
+numpy>=1.21
+scipy>=1.10
+soundfile
+streamlit
+matplotlib
